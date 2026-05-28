@@ -1,0 +1,7 @@
+# ninja log v5
+2	4831	1695851686585856199	/mnt/MonoDETR/lib/models/monodetr/ops/build/temp.linux-x86_64-cpython-38/mnt/MonoDETR/lib/models/monodetr/ops/src/cpu/ms_deform_attn_cpu.o	947e58d0d5973ce6
+2	23281	1695851705025107206	/mnt/MonoDETR/lib/models/monodetr/ops/build/temp.linux-x86_64-cpython-38/mnt/MonoDETR/lib/models/monodetr/ops/src/vision.o	f29b16f8fa059cdd
+2	29241	1695851710987188366	/mnt/MonoDETR/lib/models/monodetr/ops/build/temp.linux-x86_64-cpython-38/mnt/MonoDETR/lib/models/monodetr/ops/src/cuda/ms_deform_attn_cuda.o	d78bf1999d68e413
+128	3963	1700380593507624362	/mnt/MonoDETR/lib/models/monodetr/ops/build/temp.linux-x86_64-cpython-38/mnt/MonoDETR/lib/models/monodetr/ops/src/cpu/ms_deform_attn_cpu.o	86038f318d408da3
+129	19261	1700380608804453276	/mnt/MonoDETR/lib/models/monodetr/ops/build/temp.linux-x86_64-cpython-38/mnt/MonoDETR/lib/models/monodetr/ops/src/vision.o	34a4f295eb463ebf
+129	28353	1700380617870740229	/mnt/MonoDETR/lib/models/monodetr/ops/build/temp.linux-x86_64-cpython-38/mnt/MonoDETR/lib/models/monodetr/ops/src/cuda/ms_deform_attn_cuda.o	ad80a94cacd4da31
