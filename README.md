@@ -22,4 +22,4 @@ We further model multimodal 3D ambiguity through diverse hypothesis generation a
 ---
 
 ### Note on setup
-Environment and dataset preparation in this repo follow the similar conventions as MonoLSS and MonoDETR. Please refer to the [MonoLSS repository](https://github.com/Traffic-X/MonoLSS) and [MonoDETR repository]([https://github.com/Traffic-X/MonoLSS](https://github.com/ZrrSkywalker/MonoDETR)) for detailed instructions. We thank the all the authors for releasing their pipeline and documentation.
+Environment and dataset preparation in this repo follow the similar conventions as MonoLSS and MonoDETR. Please refer to the [MonoLSS repository](https://github.com/Traffic-X/MonoLSS) and [MonoDETR repository](https://github.com/ZrrSkywalker/MonoDETR) for detailed instructions. We thank the all the authors for releasing their pipeline and documentation.
